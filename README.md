@@ -2,7 +2,7 @@
 
 ## Background
 
-![1-Logo](Images/1-Logo.png)
+![image](https://user-images.githubusercontent.com/81937887/128580968-5d84c768-75d4-4fca-9e78-bd38eef2d7e0.png)
 
 Welcome to the United States Geological Survey, or USGS for short. The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
 
@@ -24,7 +24,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Level 1: Basic Visualization
 
-![2-BasicMap](Images/2-BasicMap.png)
+![image](https://user-images.githubusercontent.com/81937887/128581006-712ac880-9703-42b8-acd1-869360cbf510.png)
 
 Your first task is to visualize an earthquake data set.
 
